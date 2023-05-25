@@ -1,2 +1,2 @@
 # SolucioneCovid
-## deu certo
+## O Solucione Covid é uma plataforma digital inovadora que tem como propósito fornecer uma experiência interativa e acessível aos usuários em busca de informações e cuidados relacionados à COVID-19. Com foco nas causas, tratamentos e prevenção da doença, o website oferece uma abordagem abrangente, abraçando a mais recente pesquisa científica e orientações de saúde. Por meio de recursos interativos e uma interface amigável, o Solucione Covid busca capacitar os usuários a entenderem melhor a doença e a adotarem medidas efetivas de proteção.
